@@ -19,7 +19,7 @@ body {
 
 main {
   margin: 50px auto 0 auto;
-  height: 85vh;
+  height: 620px;
   width: 27%;
   background-color: hsl(255, 100%, 100%);
   border-radius: 16px;
@@ -111,7 +111,7 @@ main {
   font-weight: 700;
   text-align: center;
   text-decoration: none;
-  box-shadow: 0 12px 20px hsl(225, 17%, 73%);
+  box-shadow: 0 12px 20px hsl(227, 100%, 90%);
 }
 
 .submition > a:first-child:hover {
